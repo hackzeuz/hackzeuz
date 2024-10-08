@@ -27,7 +27,7 @@ Built a web platform for renting laptops and desktops, making it easier for user
 ## Let’s Connect!
 I’m excited to kick off my career in IT support roles like IT Support Specialist or Help Desk Support. Feel free to check out my projects and reach out if you want to connect!
 <div align='center'>
-  <a href='https://www.linkedin.com/in/ab3lsec/' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://www.linkedin.com/in/vigneshspillai7/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=VIGNESH S PILLAI&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
   <a href='https://www.instagram.com/vignes_h07/' target='_blank' rel='noopener' rel='noreferrer'>
